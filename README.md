@@ -21,7 +21,7 @@ The Microsoft location control makes this process easy by abstracting away the t
 To start using the control, you need to obtain an Azure Maps or Bing Maps API subscription key. 
 
 * You can sign up to get a free Azure Maps key with up to 25,000 transactions per month through Azure. Details are documented [here](https://docs.microsoft.com/en-us/azure/azure-maps/how-to-manage-account-keys).
-* You can sign up to get a free Bing Maps key with up to 10,000 transactions per month in the [Azure Marketplace](https://azure.microsoft.com/en-us/marketplace/partners/bingmaps/mapapis/).
+* You can sign up to get a free Bing Maps key with up to 125,000 transactions per year in the [Bing Maps Portal](https://www.bingmapsportal.com/).
 
 ## Getting Started
 Navigate to the [C#](/CSharp) or [Node.js](/Node) folder and follow the guide to add the control to your Bot Framework bot. 
